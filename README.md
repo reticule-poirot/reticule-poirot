@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reticule-poirot
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning terraform, k8s
 
 
 <!---
